@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IPSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DNSPath>data source=.;initial catalog=Patpedhi_newdb;persist security info=False;user id=sa;pwd=abcd1234;packet size=4096</DNSPath>
+</IPSettings>

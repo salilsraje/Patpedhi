@@ -1,0 +1,8 @@
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Utilities\obj\Debug\ResolveAssemblyReference.cache
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Utilities\obj\Debug\Utilities.dll
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Utilities\obj\Debug\Utilities.pdb
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Output\Utilities.dll
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Output\Utilities.pdb
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Utilities\obj\Release\ResolveAssemblyReference.cache
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Utilities\obj\Release\Utilities.dll
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Utilities\obj\Release\Utilities.pdb

@@ -1,0 +1,5 @@
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Output\Interfaces.dll
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Output\Interfaces.pdb
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Interfaces\obj\Debug\ResolveAssemblyReference.cache
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Interfaces\obj\Debug\Interfaces.dll
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Interfaces\obj\Debug\Interfaces.pdb

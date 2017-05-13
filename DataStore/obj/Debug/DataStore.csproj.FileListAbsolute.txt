@@ -1,0 +1,5 @@
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Output\DataStore.dll
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Output\DataStore.pdb
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\DataStore\obj\Debug\ResolveAssemblyReference.cache
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\DataStore\obj\Debug\DataStore.dll
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\DataStore\obj\Debug\DataStore.pdb

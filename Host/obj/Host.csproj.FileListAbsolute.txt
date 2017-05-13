@@ -1,0 +1,12 @@
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Host\obj\Debug\ResolveAssemblyReference.cache
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Host\obj\Debug\Host.Properties.Resources.resources
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Host\obj\Debug\Host.csproj.GenerateResource.Cache
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Host\obj\Debug\Patpedhi.exe
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Host\obj\Debug\Patpedhi.pdb
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Output\Patpedhi.exe
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Output\Patpedhi.pdb
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Host\obj\Release\ResolveAssemblyReference.cache
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Host\obj\Release\Host.Properties.Resources.resources
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Host\obj\Release\Host.csproj.GenerateResource.Cache
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Host\obj\Release\Patpedhi.exe
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Host\obj\Release\Patpedhi.pdb

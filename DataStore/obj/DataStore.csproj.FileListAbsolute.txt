@@ -1,0 +1,8 @@
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\DataStore\obj\Debug\ResolveAssemblyReference.cache
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\DataStore\obj\Debug\DataStore.dll
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\DataStore\obj\Debug\DataStore.pdb
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Output\DataStore.dll
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Output\DataStore.pdb
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\DataStore\obj\Release\ResolveAssemblyReference.cache
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\DataStore\obj\Release\DataStore.dll
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\DataStore\obj\Release\DataStore.pdb

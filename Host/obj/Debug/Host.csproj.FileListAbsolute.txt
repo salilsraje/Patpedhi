@@ -1,0 +1,7 @@
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Output\Patpedhi.exe
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Output\Patpedhi.pdb
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Host\obj\Debug\ResolveAssemblyReference.cache
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Host\obj\Debug\Host.Properties.Resources.resources
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Host\obj\Debug\Host.csproj.GenerateResource.Cache
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Host\obj\Debug\Patpedhi.exe
+D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Host\obj\Debug\Patpedhi.pdb

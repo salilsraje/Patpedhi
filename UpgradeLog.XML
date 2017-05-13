@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Patpedhi">
+</Property><Property Name="Solution File" Value="D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Patpedhi.sln">
+</Property><Property Name="User Options File" Value="D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Patpedhi.suo">
+</Property><Property Name="Date" Value="Sunday, July 27, 2014">
+</Property><Property Name="Time" Value="0:52 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Patpedhi.sln" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Patpedhi.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Patpedhi.suo" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Patpedhi.suo">
+</Event><Event ErrorLevel="0" Project="DataStore" Source="DataStore\DataStore.csproj" Description="Project file successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\DataStore\DataStore.csproj">
+</Event><Event ErrorLevel="0" Project="DataStore" Source="DataStore\DataProvider.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\DataStore\DataProvider.cs">
+</Event><Event ErrorLevel="0" Project="DataStore" Source="DataStore\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\DataStore\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataStore" Source="DataStore\DataStore.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataStore" Source="DataStore\DataStore.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\Utilities.csproj" Description="Project file successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Utilities\Utilities.csproj">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\CustomException.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Utilities\CustomException.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\ValidationLogic.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Utilities\ValidationLogic.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Utilities\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\Utilities.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Utilities" Source="Utilities\Utilities.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\UI.csproj" Description="Project file successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\UI.csproj">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\UI.csproj.user" Description="Project user file successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\UI.csproj.user">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\BackUpDatabase.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\BackUpDatabase.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\BackUpDatabase.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\BackUpDatabase.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\BankBranchWiseReport.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\BankBranchWiseReport.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\BankBranchWiseReport.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\BankBranchWiseReport.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\BankMaster.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\BankMaster.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\BankMaster.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\BankMaster.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\BranchMaster.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\BranchMaster.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\BranchMaster.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\BranchMaster.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\BranchWiseSummary.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\BranchWiseSummary.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\BranchWiseSummary.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\BranchWiseSummary.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\DividentInterestRegister.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\DividentInterestRegister.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\DividentInterestRegister.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\DividentInterestRegister.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\dsReport.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\dsReport.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\FinancialYear.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\FinancialYear.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\FinancialYear.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\FinancialYear.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\MainForm.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\MainForm.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\MainLoginForm.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\MainLoginForm.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\MainLoginForm.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\MainLoginForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\MemberMaster.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\MemberMaster.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\MemberMaster.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\MemberMaster.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\RateMaster.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\RateMaster.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\RateMaster.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\RateMaster.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\ReportViewer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\ReportViewer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\ReportViewer.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\ReportViewer.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\rptBankBranchWiseDivInterTotal.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\rptBankBranchWiseDivInterTotal.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\rptBankBranchWiseTotal.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\rptBankBranchWiseTotal.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\rptBranchWiseSummary.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\rptBranchWiseSummary.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\rptDividentInterestReport.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\rptDividentInterestReport.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\rptDividentInterestReportTotal.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\rptDividentInterestReportTotal.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\SchoolMaster.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\SchoolMaster.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\SchoolMaster.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\SchoolMaster.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\ShareContributionDetails.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\ShareContributionDetails.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\ShareContributionDetails.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\ShareContributionDetails.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\TalukaMaster.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\TalukaMaster.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\TalukaMaster.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\TalukaMaster.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\UploadShareContributionDetails.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\UploadShareContributionDetails.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\UploadShareContributionDetails.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\UploadShareContributionDetails.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\UserMaster.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\UserMaster.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\UserMaster.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\UserMaster.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\app.config" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\app.config">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\dsReport.xsc" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\dsReport.xsc">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\dsReport.xsd" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\dsReport.xsd">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\dsReport.xss" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\dsReport.xss">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Properties\Settings.settings" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\BackUpDatabase.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\BackUpDatabase.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\BankBranchWiseReport.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\BankBranchWiseReport.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\BankMaster.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\BankMaster.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\BranchMaster.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\BranchMaster.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\BranchWiseSummary.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\BranchWiseSummary.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\DividentInterestRegister.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\DividentInterestRegister.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\FinancialYear.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\FinancialYear.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\MainForm.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\MainLoginForm.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\MainLoginForm.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\MemberMaster.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\MemberMaster.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Properties\Resources.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\RateMaster.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\RateMaster.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\ReportViewer.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\ReportViewer.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\rptBankBranchWiseDivInterTotal.rpt" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\rptBankBranchWiseDivInterTotal.rpt">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\rptBankBranchWiseTotal.rpt" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\rptBankBranchWiseTotal.rpt">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\rptBranchWiseSummary.rpt" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\rptBranchWiseSummary.rpt">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\rptDividentInterestReport.rpt" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\rptDividentInterestReport.rpt">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\rptDividentInterestReportTotal.rpt" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\rptDividentInterestReportTotal.rpt">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\SchoolMaster.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\SchoolMaster.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\ShareContributionDetails.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\ShareContributionDetails.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\TalukaMaster.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\TalukaMaster.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\UploadShareContributionDetails.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\UploadShareContributionDetails.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\UserMaster.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\UI\UserMaster.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\UI.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UI" Source="UI\UI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Interfaces" Source="Interfaces\Interfaces.csproj" Description="Project file successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Interfaces\Interfaces.csproj">
+</Event><Event ErrorLevel="0" Project="Interfaces" Source="Interfaces\AllInterfaces.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Interfaces\AllInterfaces.cs">
+</Event><Event ErrorLevel="0" Project="Interfaces" Source="Interfaces\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Interfaces\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Interfaces" Source="Interfaces\Interfaces.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Interfaces" Source="Interfaces\Interfaces.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Host" Source="Host\Host.csproj" Description="Project file successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Host\Host.csproj">
+</Event><Event ErrorLevel="0" Project="Host" Source="Host\Host.csproj.user" Description="Project user file successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Host\Host.csproj.user">
+</Event><Event ErrorLevel="0" Project="Host" Source="Host\Petpedhi.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Host\Petpedhi.cs">
+</Event><Event ErrorLevel="0" Project="Host" Source="Host\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Host\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Host" Source="Host\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Host\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Host" Source="Host\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Host\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Host" Source="Host\Properties\Settings.settings" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Host\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Host" Source="Host\Properties\Resources.resx" Description="File successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Host\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Host" Source="Host\Host.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Host" Source="Host\Host.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Patpedhi.vdproj" Source="Patpedhi\Patpedhi.vdproj" Description="Project file successfully backed up as D:\SALIL_WORKSPACE\Patpedhi_new\Patpedhi\Patpedhi\Backup\Patpedhi\Patpedhi.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="Patpedhi.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Patpedhi.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataStore" Source="DataStore\DataStore.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\Utilities.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\UI.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Interfaces" Source="Interfaces\Interfaces.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Host" Source="Host\Host.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

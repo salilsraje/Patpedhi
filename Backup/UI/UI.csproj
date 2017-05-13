@@ -1,0 +1,338 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{28B28184-2802-4A8B-8A5A-2B1B3376026D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UI</RootNamespace>
+    <AssemblyName>UI</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Output\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Output\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Output\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Interfaces, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Utilities, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BackUpDatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackUpDatabase.Designer.cs">
+      <DependentUpon>BackUpDatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankBranchWiseReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankBranchWiseReport.Designer.cs">
+      <DependentUpon>BankBranchWiseReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankMaster.Designer.cs">
+      <DependentUpon>BankMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BranchMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BranchMaster.Designer.cs">
+      <DependentUpon>BranchMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BranchWiseSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BranchWiseSummary.Designer.cs">
+      <DependentUpon>BranchWiseSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DividentInterestRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DividentInterestRegister.Designer.cs">
+      <DependentUpon>DividentInterestRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dsReport.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FinancialYear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinancialYear.Designer.cs">
+      <DependentUpon>FinancialYear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainLoginForm.Designer.cs">
+      <DependentUpon>MainLoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberMaster.Designer.cs">
+      <DependentUpon>MemberMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="RateMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RateMaster.Designer.cs">
+      <DependentUpon>RateMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer.Designer.cs">
+      <DependentUpon>ReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptBankBranchWiseDivInterTotal.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptBankBranchWiseDivInterTotal.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptBankBranchWiseTotal.cs">
+      <SubType>Component</SubType>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptBankBranchWiseTotal.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="rptBranchWiseSummary.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptBranchWiseSummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDividentInterestReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDividentInterestReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDividentInterestReportTotal.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDividentInterestReportTotal.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SchoolMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SchoolMaster.Designer.cs">
+      <DependentUpon>SchoolMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShareContributionDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShareContributionDetails.Designer.cs">
+      <DependentUpon>ShareContributionDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TalukaMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TalukaMaster.Designer.cs">
+      <DependentUpon>TalukaMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UploadShareContributionDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UploadShareContributionDetails.Designer.cs">
+      <DependentUpon>UploadShareContributionDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserMaster.Designer.cs">
+      <DependentUpon>UserMaster.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BackUpDatabase.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BackUpDatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankBranchWiseReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BankBranchWiseReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankMaster.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BankMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BranchMaster.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BranchMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BranchWiseSummary.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BranchWiseSummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DividentInterestRegister.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DividentInterestRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinancialYear.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FinancialYear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainLoginForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainLoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberMaster.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MemberMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RateMaster.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RateMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptBankBranchWiseDivInterTotal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptBankBranchWiseDivInterTotal.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptBankBranchWiseTotal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptBankBranchWiseTotal.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptBranchWiseSummary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptBranchWiseSummary.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDividentInterestReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDividentInterestReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDividentInterestReportTotal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDividentInterestReportTotal.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SchoolMaster.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SchoolMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShareContributionDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ShareContributionDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TalukaMaster.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TalukaMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UploadShareContributionDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UploadShareContributionDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserMaster.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UserMaster.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="dsReport.xsc">
+      <DependentUpon>dsReport.xsd</DependentUpon>
+    </None>
+    <None Include="dsReport.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsReport.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsReport.xss">
+      <DependentUpon>dsReport.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

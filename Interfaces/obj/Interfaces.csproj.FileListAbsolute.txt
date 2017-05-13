@@ -1,0 +1,8 @@
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Interfaces\obj\Debug\ResolveAssemblyReference.cache
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Interfaces\obj\Debug\Interfaces.dll
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Interfaces\obj\Debug\Interfaces.pdb
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Output\Interfaces.dll
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Output\Interfaces.pdb
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Interfaces\obj\Release\ResolveAssemblyReference.cache
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Interfaces\obj\Release\Interfaces.dll
+D:\Sheetal\Work\Patpedhi_new\Patpedhi\Patpedhi\Interfaces\obj\Release\Interfaces.pdb
